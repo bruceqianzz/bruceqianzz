@@ -28,4 +28,4 @@ LeetCode: bruceqianzz
 Lindin: 
 INS: bruce_waynezz0
 # 📫 How to reach me
-Drop me a mail at bruce.qian@mail.utoronto.ca!
+Drop me a mail at qianbruce10@gmail.com !
